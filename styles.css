@@ -143,7 +143,14 @@ button {
   align-items: center;
   color: #f9faf8;
 }
-.section-4 p {
-  justify-self: left;
-  align-self: flex-end;
+.section-4 button {
+  border-color: #f9faf8;
+}
+/* END OF SECTION 4 */
+footer {
+  padding: 25px 15%;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
