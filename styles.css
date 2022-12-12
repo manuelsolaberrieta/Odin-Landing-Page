@@ -49,13 +49,15 @@ a {
   font-weight: bolder;
 }
 button {
-  margin: 20px 0 0 0px;
   padding: 10px 20px;
   background-color: #3882f6;
   color: #f9faf8;
   font-weight: bold;
   font-size: 18px;
   border-radius: 10px;
+}
+.section-1 button {
+  margin-top: 20px;
 }
 #placeholder-image {
   width: 500px;
@@ -129,3 +131,19 @@ button {
   align-self: flex-end;
 }
 /* END OF SECTION 3 */
+.section-4 {
+  padding: 100px 15%;
+  background-color: #f9faf8;
+}
+.call-to-action {
+  background-color: #3882f6;
+  padding: 40px 80px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: #f9faf8;
+}
+.section-4 p {
+  justify-self: left;
+  align-self: flex-end;
+}
